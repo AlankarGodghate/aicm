@@ -332,6 +332,10 @@ span {
   margin-top: 10px;
 }
 
+.link-div a:hover {
+  color: purple;
+}
+
 .mp {
   margin-top: 10px;
 }

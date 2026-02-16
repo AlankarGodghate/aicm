@@ -340,12 +340,13 @@ span {
   margin-top: 10px;
 }
 
-.buttondiv button {
+.buttondiv2 button {
   height: 70px;
   width: 80px;
   margin-right: 20px;
   background-color: rgb(156, 194, 206);
   border: none;
+  border-radius: 10px;
 }
 
 .fa-solid.fa-arrow-left {
@@ -356,6 +357,8 @@ span {
   font-size: 30px;
 }
 
-.buttondiv {
-  margin-bottom: 20px;
+.buttondiv2 {
+  margin-bottom: 30px;
+  margin-top: 70px;
+  text-align: center;
 }

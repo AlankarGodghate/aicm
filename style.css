@@ -339,3 +339,23 @@ span {
 .mp {
   margin-top: 10px;
 }
+
+.buttondiv button {
+  height: 70px;
+  width: 80px;
+  margin-right: 20px;
+  background-color: rgb(156, 194, 206);
+  border: none;
+}
+
+.fa-solid.fa-arrow-left {
+  font-size: 30px;
+}
+
+.fa-solid.fa-right-from-bracket {
+  font-size: 30px;
+}
+
+.buttondiv {
+  margin-bottom: 20px;
+}
